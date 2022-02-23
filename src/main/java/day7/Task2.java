@@ -12,6 +12,7 @@ public class Task2 {
         player5.run();
         player5.run();
         player5.run();
+        player5.run();
         Player.info();
     }
 }

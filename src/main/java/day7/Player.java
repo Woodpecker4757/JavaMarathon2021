@@ -21,7 +21,7 @@ public class Player {
             if(stamina <= 0){
                 countPlayers--;
                 stamina--;
-                System.out.println("Игрок слишком устал."+stamina);
+                System.out.println("Игрок слишком устал." + stamina);
                 stamina = 0;
             }else {
                 stamina--;

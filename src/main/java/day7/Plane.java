@@ -1,5 +1,5 @@
 package day7;
-
+//getters, setters static and more more interesting
 public class Plane {
     private String producer;
     private int year;

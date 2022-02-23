@@ -7,6 +7,6 @@ public class Task1 {
     public static void main(String[] args) {
         Plane plane = new Plane("Aero", 70 ,40 ,30000 , 200);
         Plane plane10 = new Plane("Barsik", 70 ,40 ,30540 , 298);
-        plane.compareAirplains(plane,plane10);
+        plane.compareAirplains(plane, plane10);
     }
 }
