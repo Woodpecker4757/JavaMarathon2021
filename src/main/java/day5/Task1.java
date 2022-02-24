@@ -7,7 +7,7 @@ public class Task1 {
         car.setYear(2000);
         car.setModel("audi");
 
-        System.out.println("Our car " + car.getYear() + "year " + car.getModel() + " model " + car.getColor() + " color ");
+        System.out.println("Our car " + car.getYear() + "year " + car.getModel() + "day11/task2/model " + car.getColor() + " color ");
 
     }
 }

@@ -9,8 +9,8 @@ public class Task1 {
         car.info();
         Motorbike motorbike = new Motorbike(1980,"kawasaki","white");
         motorbike.info();
-        System.out.println("year " + car.getYear() +" model " + car.getModel() + " color " + car.getColor());
-        System.out.println("year " + motorbike.getYear() +" model " + motorbike.getModel() + " color " + motorbike.getColor());
+        System.out.println("year " + car.getYear() + "day11/task2/model " + car.getModel() + " color " + car.getColor());
+        System.out.println("year " + motorbike.getYear() + "day11/task2/model " + motorbike.getModel() + " color " + motorbike.getColor());
         System.out.println(motorbike.yearDifference(3070));
 
     }
